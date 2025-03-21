@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Computer Science Engineer | Blockchain Enthusiast | Skilled in AI, Machine Learning, and Full-Stack Development | Seeking Opportunities to Innovate
+Science Engineer | Blockchain Enthusiast | Skilled in AI, Machine Learning, and Full-Stack Development | Seeking Opportunities to Innovate
 
 
 ## 🌐 Socials:
