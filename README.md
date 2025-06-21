@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Software Engineer | Skilled in AI, Machine Learning, and Full-Stack Development | Seeking Opportunities to Innovate
+Software Engineer 1 @ Mirafra Technology | Python | Machine Learning | Deep Learning | SQL | MLops | Certified in Data Science
 
 
 ## 🌐 Socials:
