@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Software Engineer 1 @ Mirafra Technology | Python | Machine Learning | Deep Learning | SQL | MLops | Certified in Data Science
+Software Engineer 1 @ Mirafra Technology | Python, C, C++, SQL | AI/ML Full-Stack Developer | Deep Learning (PyTorch, Hugging Face) | MLOps (MLflow, DVC, Docker, Kubernetes) | FastAPI, Flask, Streamlit | AWS (S3, EC2) | Certified in Data Science
 
 
 ## 🌐 Socials:
